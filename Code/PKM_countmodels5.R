@@ -1826,8 +1826,6 @@ summary(bestmod3)
 # ?ggmap::get_map
 # ?ggmap::ggmap
 # 
-# register_google("AIzaSyCsZjkVbEnK3p_DZPrzQ0OASi7TmtZwIi0",)
-# 
 # 
 # tfm <- spTransform(dat$traplocs, CRS("+proj=longlat +datum=WGS84"))
 # bbox <- c(left = min(tfm@coords[,1]), bottom =  min(tfm@coords[,2]), right =  max(tfm@coords[,1]), top =  max(tfm@coords[,2]))
