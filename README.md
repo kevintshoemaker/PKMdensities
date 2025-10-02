@@ -1,0 +1,1 @@
+R code and data for the data analysis presented in Hegg et al. "Vegetation and interspecific competition determine local densities for a sand-dune endemic heteromyid, the Pale Kangaroo Mouse (Microdipodops pallidus)".

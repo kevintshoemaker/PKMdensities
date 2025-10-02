@@ -1,0 +1,11 @@
+,cobble,gravel,coarsesand,sand3,sand2,sand1,finesand,veryfine,siltclay
+USDA names,cobble,gravel,coarse/very coarse,medium,medium,fine,fine,very fine,silt-clay
+medfinevf,,,,1,1,1,1,1,
+allusda,,,1,1,1,1,1,1,
+coarsemed,,,1,1,1,,,,
+orig,,,1,1,1,1,,,
+medfine,,,,1,1,1,1,,
+medium,,,,1,1,,,,
+nottoofine,,,1,1,1,1,1,,
+finevf,,,,,,1,1,1,
+fine,,,,,,1,1,,
